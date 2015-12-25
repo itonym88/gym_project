@@ -1,0 +1,19 @@
+body {
+  color: #222;
+   }
+
+.h_left_menu a {
+  color: rgb(251, 77, 1);
+  text-transform: uppercase; 
+}
+.h_ask a{
+	color: white;
+	text-transform: uppercase;
+}
+h2{
+	text-transform: uppercase;
+}
+p {
+  color: black; }
+
+
